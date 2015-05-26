@@ -1,5 +1,5 @@
 # Project2
-##5 Problems from Project Euler and CoderByte
+##7 Problems from Project Euler and CoderByte
 
 For this weekly assignment, you will be working through a set of problems, many from Project Euler (http://projecteuler.net) or CoderByte (http://coderbyte.com).
 Each problem will build upon one of the concepts covered in class. Collaboration is encouraged, and full understanding of the underlying concepts is required.
